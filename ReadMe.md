@@ -4,7 +4,13 @@ Project Description
 -------------------------
 This project is created in accordance with my Masters Course Object-Oriented Design at Northeastern Illinois University.
 
-The project is a JavaFX application that simulates moving a ball on a grid (think of this like a little robot,see image below). The grid is a 25 x 25 grid where the top-left-hand corner of the grid is at (0, 0) and the bottom left hand corner is (24, 24). 
+The project is a JavaFX application that simulates moving a ball on a grid (think of this like a little robot,see image below). 
+
+
+
+
+
+The grid is a 25 x 25 grid where the top-left-hand corner of the grid is at (0, 0) and the bottom left hand corner is (24, 24). 
 The ball is initialized to a random location in the grid, and if the user enters an invalid direction (other than U/D/L/R) or an invalid number of spaces (either an invalid value or a value that takes the ball oﬀ the grid), the ball will not move from its current location.
 
 
