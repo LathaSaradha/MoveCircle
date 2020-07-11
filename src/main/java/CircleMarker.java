@@ -57,6 +57,7 @@ public class CircleMarker extends Circle {
 
             drawCircle( g, coords);
         }
+    //when the entered number of cells go beyond the limit
     else
     {
         JFrame f= new JFrame();
