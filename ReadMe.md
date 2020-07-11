@@ -23,4 +23,4 @@ Instructions
 
 6. Remember that to run the project for the first time,you will need to click on the Gradle tab on the right-hand side of the project and goto homework5→Tasks→application. 
 
-7. Right-click on run and choose MoveCircle [run]. 
+7. Right-click on run and choose MoveCircle [run].
