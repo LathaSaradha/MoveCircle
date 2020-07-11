@@ -7,6 +7,7 @@ This project is created in accordance with my Masters Course Object-Oriented Des
 The project is a JavaFX application that simulates moving a ball on a grid (think of this like a little robot,see image below). 
 
 
+![Test Image 1](MoveCircle_Screenshot.png)
 
 
 
