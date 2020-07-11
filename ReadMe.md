@@ -15,7 +15,6 @@ The grid is a 25 x 25 grid where the top-left-hand corner of the grid is at (0, 
 The ball is initialized to a random location in the grid, and if the user enters an invalid direction (other than U/D/L/R) or an invalid number of spaces (either an invalid value or a value that takes the ball oﬀ the grid), the ball will not move from its current location.
 
 
-
 Instructions
 ----------------
 1. With IntelliJ(v2019.2.3RC or higher), Clone the project.
